@@ -23,7 +23,7 @@ Estos son algunos de los recursos que hemos estado utilizando para aprender:
 
 ## Contribuciones
 
-Nos encantaría recibir comentarios, sugerencias y contribuciones de la comunidad. Siéntanse libres de abrir Issues (https://github.com/CocheseCL/juegos-con-mi-hijo/issues) o hacer Pull Requests (https://github.com/CocheseCL/juegos-con-mi-hijo/pulls) si tienen ideas o mejoras para nuestros proyectos.
+Nos encantaría recibir comentarios, sugerencias y contribuciones de la comunidad. Siéntanse libres de abrir Issues (https://github.com/CocheseCL/CocheseCL/issues) o hacer Pull Requests (https://github.com/CocheseCL/CocheseCL/pulls) si tienen ideas o mejoras para nuestros proyectos.
 
 ## Contacto
 
