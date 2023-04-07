@@ -1,16 +1,30 @@
-### Hi there 👋
+Bienvenidos al repositorio de CocheseCL
+¡Hola a todos! Mi nombre es CocheseCL y este repositorio fue creado para aprender a programar juegos junto a mi hijo. Aquí encontrarán todos nuestros proyectos y el progreso de nuestro aprendizaje.
 
-<!--
-**CocheseCL/CocheseCL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎮 Nuestros objetivos
+Aprender a programar juegos desde cero.
+Pasar tiempo de calidad juntos.
+Compartir nuestros proyectos con la comunidad.
+Recibir feedback y consejos para mejorar nuestras habilidades.
+🛠️ Herramientas y tecnologías utilizadas
+Estamos explorando diferentes herramientas y lenguajes de programación, como:
 
-Here are some ideas to get you started:
+Python
+JavaScript
+Unity
+Godot
+C#
+📚 Recursos de aprendizaje
+Estos son algunos de los recursos que hemos estado utilizando para aprender:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Codecademy
+FreeCodeCamp
+Unity Learn
+Godot Engine Documentation
+🤝 Contribuciones
+Nos encantaría recibir comentarios, sugerencias y contribuciones de la comunidad. Siéntanse libres de abrir Issues o hacer Pull Requests si tienen ideas o mejoras para nuestros proyectos.
+
+📬 Contacto
+Si desean contactarnos, pueden hacerlo a través de mi perfil de GitHub @CocheseCL.
+
+¡Gracias por visitar nuestro repositorio y esperamos que disfruten de nuestros proyectos tanto como nosotros al crearlos! 😊
